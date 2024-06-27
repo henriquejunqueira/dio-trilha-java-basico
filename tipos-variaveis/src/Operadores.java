@@ -115,6 +115,6 @@ public class Operadores {
             System.out.println("Uma das condições é verdadeira");
         }
 
-        System.out.println("Fim");
+        System.out.println("Fim do programa...");
     }
 }
